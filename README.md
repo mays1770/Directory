@@ -18,8 +18,4 @@ https://github.com/mays1770/Titanic_PySpark
 https://github.com/mays1770/OnlineAd_Click-Through-Rate_Prediction
 
 
-## Practice
-### ggplot2
-https://github.com/mays1770/ggplot2_practice
-### SQL
-https://github.com/mays1770/SQL_Practice
+
