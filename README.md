@@ -1,6 +1,13 @@
 # Directory
 This is a summary of all other repositories
 
+
+| 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
+
+
 ## Marketing Analytics
 ### Recommender System
 https://github.com/mays1770/RecommenderSystem
